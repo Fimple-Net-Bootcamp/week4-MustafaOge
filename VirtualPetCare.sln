@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualPetCareAPI", "Virtua
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualPetCare.Core", "..\VirtualPetCare.Core\VirtualPetCare.Core.csproj", "{DADD9DCD-57EB-4E1E-AD00-3CA6F8B4FC4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPetCare.Repository", "..\VirtualPetCare.Repository\VirtualPetCare.Repository.csproj", "{A88F63B5-0F12-4DB3-AEE7-E9F35CF9468F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualPetCare.Repository", "..\VirtualPetCare.Repository\VirtualPetCare.Repository.csproj", "{A88F63B5-0F12-4DB3-AEE7-E9F35CF9468F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
